@@ -4,8 +4,8 @@
 
 2. Press the green arrow in Run Control to start the method
 
-`[1]: assist('pick up tips from the eighth column of tips_0')
+3. `[1]: assist('pick up tips from the eighth column of tips_0')`
 
-or
+  or
 
-`[1]: assist(voice_to_text())`
+  `[1]: assist(voice_to_text())`
